@@ -78,5 +78,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Giriprasath T K**  
-📧 [your_email@example.com]  
-🔗 [LinkedIn](https://www.linkedin.com/)  
+📧 tkcharan8@gmail.com
+🔗[ [LinkedIn](https://www.linkedin.com/)  ](https://www.linkedin.com/in/giri-prasath-tk-a05150266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
