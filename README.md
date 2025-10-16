@@ -61,6 +61,12 @@ The system uses **solar panels**, a **PWM charge controller**, and a **12V batte
 
 ---
 
+## Prototype
+
+![Prototype Image](prototype.jpg)
+
+---
+
 ## 🧰 Future Enhancements
 
 - Replace PWM with **MPPT Controller** for 20–30% better efficiency.  
